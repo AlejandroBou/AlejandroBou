@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Location-Sevilla%2C_Spain-orange?style=for-the-badge" alt="Location">
 </p>
 
-Desarrollador de Software enfocado en crear soluciones eficientes y escalables. Me apasiona el ecosistema **Android** y el diseño de arquitecturas **Backend** robustas. Aunque tambien me gusta dejarme llevar a la hora de realizar diseños, siempre en busca de nuevos retos y de formarme como desarrollador Fullstack.
+Desarrollador de Software enfocado en crear soluciones eficientes y escalables. Me apasiona el ecosistema **Android** y el diseño de arquitecturas **Backend** robustas, aunque tambien me gusta dejarme llevar a la hora de realizar diseños. Siempre en busca de nuevos retos y de formarme como desarrollador Fullstack.
 
 ---
 
